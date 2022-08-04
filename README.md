@@ -1,1 +1,1 @@
-<video src="https://link.jscdn.cn/sharepoint/aHR0cHM6Ly9jYXRoZWRyYWxzY2hvb2xpbG9yZy1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC96MTk0NDBfMzY1aV90ZWFtL0VhRW93UVNEOEFGTmo3N2NuYjZ5ZVVJQlpVXzd6TllYVjVNbzFXUHZJNDBxUFE_ZT0xVjN6Wko.mp4" controls="controls" width="100%">
+<video src="https://cathedralschoolilorg-my.sharepoint.com/personal/z19440_365i_team/Documents/144812767-1-208.mp4?ga=1" controls="controls" width="100%">
